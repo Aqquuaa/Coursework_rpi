@@ -8,7 +8,7 @@
 - [Відео-демонстрація роботи системи](TBA)
 - [Повний текст курсової роботи](TBA)
 - [Основний код](https://github.com/Aqquuaa/Coursework_rpi/blob/main/SoftwareCode/rasp_script.py)
-- [Інструкція зі встановлення](TBA)
+- [Інструкція зі встановлення](https://github.com/Aqquuaa/Coursework_rpi/blob/main/Guide/InstallationGuide.md)
 
 ## Основні характеристики
 
